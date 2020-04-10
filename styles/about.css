@@ -1,0 +1,13 @@
+body {
+    height: calc(100vh -8em);
+    padding: 4em;
+    color: rgba(255, 255, 255, 0.75);
+    font-family: 'Megrim', cursive;
+    background-color: rgb(25, 25, 25);
+    color: limegreen;
+}
+
+.content a {
+    text-decoration: none;
+    color: limegreen;
+}

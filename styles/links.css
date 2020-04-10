@@ -1,0 +1,6 @@
+.content-wrapper > .content a {
+    text-decoration: none;
+    color: limegreen;
+    padding-right: 25px;
+    font-size: 20px;
+}
